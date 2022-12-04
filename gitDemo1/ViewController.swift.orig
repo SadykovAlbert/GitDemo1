@@ -13,9 +13,11 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         
+<<<<<<< HEAD
         print("master print")
-        
+=======
         print("f1 branch")
+>>>>>>> f1
     }
 
 
