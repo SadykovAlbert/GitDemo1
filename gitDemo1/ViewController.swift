@@ -20,6 +20,9 @@ class ViewController: UIViewController {
         print("new hello")
     }
 
+    func b1func(){
+        
+    }
 
 }
 
